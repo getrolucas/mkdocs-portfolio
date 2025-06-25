@@ -1,0 +1,10 @@
+site_name: Getro Lucas - Repositório de Códigos
+theme:
+  name: null
+  custom_dir: 'cinder'
+  hljs_languages:
+      - python
+nav:
+  - Home: index.md
+  - 'Data Science': datascience/index.md
+  - 'DataViz' : dataviz/index.md
