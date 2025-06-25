@@ -91,12 +91,12 @@ df.head()
     }
 
     .dataframe thead th {
-        text-align: right;
+        text-align: left;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: left;">
       <th></th>
       <th>Entity</th>
       <th>Code</th>
@@ -194,12 +194,12 @@ df
     }
 
     .dataframe thead th {
-        text-align: right;
+        text-align: left;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: left;">
       <th></th>
       <th>Entity</th>
       <th>Code</th>

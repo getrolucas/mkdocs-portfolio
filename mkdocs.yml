@@ -1,7 +1,8 @@
-site_name: Getro Lucas - Repositório de Códigos
+site_name: Getro Lucas
 theme:
   name: null
   custom_dir: 'cinder'
+  colorscheme: docco
   hljs_languages:
       - python
 nav:
