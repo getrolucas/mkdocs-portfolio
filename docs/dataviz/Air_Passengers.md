@@ -278,7 +278,7 @@ plt.show()
 
 
 ### **Próximos Passos**
-- Adicionar vizualização por World Bank Group, comparando volume total de passageiros, tendências e impacto da pandemia.
+- Adicionar visualização por World Bank Group, comparando volume total de passageiros, tendências e impacto da pandemia.
 
 ### **Fontes e Inspirações**
 - Dados: https://ourworldindata.org/grapher/air-passengers-carried?tab=chart&country=~BRA#sources-and-processing
