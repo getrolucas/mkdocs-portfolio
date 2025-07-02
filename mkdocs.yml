@@ -1,11 +1,15 @@
-site_name: Getro Lucas
+site_name: "Getro Lucas"
+site_author: "Getro Lucas"
 theme:
   name: null
+  disable_nav_previous_next: true
+  disable_nav_site_name: true
+  disable_footer: true
   custom_dir: 'cinder'
   colorscheme: docco
   hljs_languages:
-      - python
+    - python
 nav:
   - Home: index.md
-  - 'Data Science': datascience/index.md
-  - 'DataViz' : dataviz/index.md
+  # - 'Data Science': datascience/index.md
+  # - 'DataViz' : dataviz/index.md
